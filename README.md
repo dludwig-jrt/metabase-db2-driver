@@ -1,5 +1,5 @@
 # metabase-db2-driver
-AS400 DB2 Driver for Metabase
+v7r1 iSeries DB2 Driver for Metabase
 
 ### Prereqs: Install Metabase locally, compiled for building drivers
 
